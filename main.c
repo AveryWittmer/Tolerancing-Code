@@ -1,8 +1,6 @@
 /*
 Name: Tolerance Analysis Program
 Author: Avery Wittmer
-Class: EGR 107
-Prof./Sec.: Kocharian / summer
 Desc.: This program parses an inputted tolerance table and outputs a Basic Gap analysis.
 It then builds on its analysis through suggesting ways to close the gap and dealing with random dimensions.
 */
